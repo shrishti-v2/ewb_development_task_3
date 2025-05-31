@@ -1,4 +1,4 @@
-# ewb_development_task_4
+ # web_development_task_4
  REST API to Manage a List of Books Using Node.js and Express
 ## Overview
 This is a simple REST API built using Node.js and Express that allows users to perform CRUD (Create, Read, Update, Delete) operations on books. The data is stored in-memory, meaning no external database is required.
@@ -16,12 +16,12 @@ This is a simple REST API built using Node.js and Express that allows users to p
 - Delete a book (DELETE /books/:index)
 
 ## Installation & Setup
-- Initialize the project with npm init
+- Initialize the project with npm init:
  Run the following command inside the project folder:
- npm init -y
+   npm init -y
 - Install Node.js Dependencies
  Run the following command inside the project folder:
-npm install express
+  npm install express
 - Run the Server
 Start the API by running:
  node index.js
