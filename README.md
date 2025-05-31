@@ -18,13 +18,13 @@ This is a simple REST API built using Node.js and Express that allows users to p
 ## Installation & Setup
 - Initialize the project with npm init:
  Run the following command inside the project folder:
-   npm init -y
-- Install Node.js Dependencies
+ npm init -y
+- Install Node.js Dependencies:
  Run the following command inside the project folder:
-  npm install express
+ npm install express
 - Run the Server
 Start the API by running:
- node index.js
+node index.js
 - Test API Using Postman
 
 ## Future Improvements
