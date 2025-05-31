@@ -16,16 +16,16 @@ This is a simple REST API built using Node.js and Express that allows users to p
 - Delete a book (DELETE /books/:index)
 
 ## Installation & Setup
-1.Initialize the project with npm init
+- Initialize the project with npm init
 Run the following command inside the project folder:
 npm init -y
-2.Install Node.js Dependencies
+- Install Node.js Dependencies
 Run the following command inside the project folder:
 npm install express
-3.Run the Server
+- Run the Server
 Start the API by running:
 node index.js
-4.Test API Using Postman
+- Test API Using Postman
 
 ## Future Improvements
 - Implement unique IDs instead of using indexes.
